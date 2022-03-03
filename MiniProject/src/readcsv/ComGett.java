@@ -41,6 +41,7 @@ public class ComGett<bankfileR> {
 	  {
 		  st.add(entry.getValue().issue + " "+ u_company);
 //		  System.out.println(entry.getValue().issue + " "+ u_company);
+		  //System.out.println("insert");
 	  }
 
 	}
